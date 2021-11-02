@@ -1,0 +1,7 @@
+D:\C#\LeetCode\LeetCode\ReoorderedPowerOfTwo\bin\Debug\ReoorderedPowerOfTwo.exe.config
+D:\C#\LeetCode\LeetCode\ReoorderedPowerOfTwo\bin\Debug\ReoorderedPowerOfTwo.exe
+D:\C#\LeetCode\LeetCode\ReoorderedPowerOfTwo\bin\Debug\ReoorderedPowerOfTwo.pdb
+D:\C#\LeetCode\LeetCode\ReoorderedPowerOfTwo\obj\Debug\ReoorderedPowerOfTwo.csprojAssemblyReference.cache
+D:\C#\LeetCode\LeetCode\ReoorderedPowerOfTwo\obj\Debug\ReoorderedPowerOfTwo.csproj.CoreCompileInputs.cache
+D:\C#\LeetCode\LeetCode\ReoorderedPowerOfTwo\obj\Debug\ReoorderedPowerOfTwo.exe
+D:\C#\LeetCode\LeetCode\ReoorderedPowerOfTwo\obj\Debug\ReoorderedPowerOfTwo.pdb

@@ -1,0 +1,7 @@
+D:\C#\LeetCode\LeetCode\TechGigWinnerLoose\bin\Debug\TechGigWinnerLoose.exe.config
+D:\C#\LeetCode\LeetCode\TechGigWinnerLoose\bin\Debug\TechGigWinnerLoose.exe
+D:\C#\LeetCode\LeetCode\TechGigWinnerLoose\bin\Debug\TechGigWinnerLoose.pdb
+D:\C#\LeetCode\LeetCode\TechGigWinnerLoose\obj\Debug\TechGigWinnerLoose.csprojAssemblyReference.cache
+D:\C#\LeetCode\LeetCode\TechGigWinnerLoose\obj\Debug\TechGigWinnerLoose.csproj.CoreCompileInputs.cache
+D:\C#\LeetCode\LeetCode\TechGigWinnerLoose\obj\Debug\TechGigWinnerLoose.exe
+D:\C#\LeetCode\LeetCode\TechGigWinnerLoose\obj\Debug\TechGigWinnerLoose.pdb

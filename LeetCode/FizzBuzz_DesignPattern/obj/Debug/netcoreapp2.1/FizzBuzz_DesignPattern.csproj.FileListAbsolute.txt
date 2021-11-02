@@ -1,0 +1,11 @@
+D:\C#\LeetCode\LeetCode\FizzBuzz_DesignPattern\bin\Debug\netcoreapp2.1\FizzBuzz_DesignPattern.deps.json
+D:\C#\LeetCode\LeetCode\FizzBuzz_DesignPattern\bin\Debug\netcoreapp2.1\FizzBuzz_DesignPattern.runtimeconfig.json
+D:\C#\LeetCode\LeetCode\FizzBuzz_DesignPattern\bin\Debug\netcoreapp2.1\FizzBuzz_DesignPattern.runtimeconfig.dev.json
+D:\C#\LeetCode\LeetCode\FizzBuzz_DesignPattern\bin\Debug\netcoreapp2.1\FizzBuzz_DesignPattern.dll
+D:\C#\LeetCode\LeetCode\FizzBuzz_DesignPattern\bin\Debug\netcoreapp2.1\FizzBuzz_DesignPattern.pdb
+D:\C#\LeetCode\LeetCode\FizzBuzz_DesignPattern\obj\Debug\netcoreapp2.1\FizzBuzz_DesignPattern.csprojAssemblyReference.cache
+D:\C#\LeetCode\LeetCode\FizzBuzz_DesignPattern\obj\Debug\netcoreapp2.1\FizzBuzz_DesignPattern.csproj.CoreCompileInputs.cache
+D:\C#\LeetCode\LeetCode\FizzBuzz_DesignPattern\obj\Debug\netcoreapp2.1\FizzBuzz_DesignPattern.AssemblyInfoInputs.cache
+D:\C#\LeetCode\LeetCode\FizzBuzz_DesignPattern\obj\Debug\netcoreapp2.1\FizzBuzz_DesignPattern.AssemblyInfo.cs
+D:\C#\LeetCode\LeetCode\FizzBuzz_DesignPattern\obj\Debug\netcoreapp2.1\FizzBuzz_DesignPattern.dll
+D:\C#\LeetCode\LeetCode\FizzBuzz_DesignPattern\obj\Debug\netcoreapp2.1\FizzBuzz_DesignPattern.pdb

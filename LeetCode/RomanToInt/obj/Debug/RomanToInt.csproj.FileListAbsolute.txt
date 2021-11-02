@@ -1,0 +1,7 @@
+D:\C#\LeetCode\LeetCode\RomanToInt\obj\Debug\RomanToInt.csprojAssemblyReference.cache
+D:\C#\LeetCode\LeetCode\RomanToInt\obj\Debug\RomanToInt.csproj.CoreCompileInputs.cache
+D:\C#\LeetCode\LeetCode\RomanToInt\bin\Debug\RomanToInt.exe.config
+D:\C#\LeetCode\LeetCode\RomanToInt\bin\Debug\RomanToInt.exe
+D:\C#\LeetCode\LeetCode\RomanToInt\bin\Debug\RomanToInt.pdb
+D:\C#\LeetCode\LeetCode\RomanToInt\obj\Debug\RomanToInt.exe
+D:\C#\LeetCode\LeetCode\RomanToInt\obj\Debug\RomanToInt.pdb

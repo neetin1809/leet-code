@@ -1,0 +1,6 @@
+D:\C#\LeetCode\LeetCode\LongestPalindromicString\bin\Debug\LongestPalindromicString.exe.config
+D:\C#\LeetCode\LeetCode\LongestPalindromicString\bin\Debug\LongestPalindromicString.exe
+D:\C#\LeetCode\LeetCode\LongestPalindromicString\bin\Debug\LongestPalindromicString.pdb
+D:\C#\LeetCode\LeetCode\LongestPalindromicString\obj\Debug\LongestPalindromicString.csproj.CoreCompileInputs.cache
+D:\C#\LeetCode\LeetCode\LongestPalindromicString\obj\Debug\LongestPalindromicString.exe
+D:\C#\LeetCode\LeetCode\LongestPalindromicString\obj\Debug\LongestPalindromicString.pdb

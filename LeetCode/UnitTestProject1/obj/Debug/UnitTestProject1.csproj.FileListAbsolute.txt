@@ -1,0 +1,17 @@
+D:\C#\LeetCode\LeetCode\UnitTestProject1\obj\Debug\UnitTestProject1.csprojAssemblyReference.cache
+D:\C#\LeetCode\LeetCode\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+D:\C#\LeetCode\LeetCode\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\C#\LeetCode\LeetCode\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\C#\LeetCode\LeetCode\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\C#\LeetCode\LeetCode\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\C#\LeetCode\LeetCode\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\C#\LeetCode\LeetCode\UnitTestProject1\bin\Debug\FourSum.exe
+D:\C#\LeetCode\LeetCode\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\C#\LeetCode\LeetCode\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\C#\LeetCode\LeetCode\UnitTestProject1\bin\Debug\FourSum.pdb
+D:\C#\LeetCode\LeetCode\UnitTestProject1\bin\Debug\FourSum.exe.config
+D:\C#\LeetCode\LeetCode\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\C#\LeetCode\LeetCode\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\C#\LeetCode\LeetCode\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+D:\C#\LeetCode\LeetCode\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\C#\LeetCode\LeetCode\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

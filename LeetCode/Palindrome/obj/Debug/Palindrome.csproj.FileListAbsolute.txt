@@ -1,0 +1,7 @@
+D:\C#\LeetCode\LeetCode\Palindrome\bin\Debug\Palindrome.exe.config
+D:\C#\LeetCode\LeetCode\Palindrome\bin\Debug\Palindrome.exe
+D:\C#\LeetCode\LeetCode\Palindrome\bin\Debug\Palindrome.pdb
+D:\C#\LeetCode\LeetCode\Palindrome\obj\Debug\Palindrome.csproj.CoreCompileInputs.cache
+D:\C#\LeetCode\LeetCode\Palindrome\obj\Debug\Palindrome.exe
+D:\C#\LeetCode\LeetCode\Palindrome\obj\Debug\Palindrome.pdb
+D:\C#\LeetCode\LeetCode\Palindrome\obj\Debug\Palindrome.csprojAssemblyReference.cache

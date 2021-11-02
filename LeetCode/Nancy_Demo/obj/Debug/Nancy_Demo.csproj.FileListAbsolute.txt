@@ -1,0 +1,12 @@
+D:\C#\LeetCode\LeetCode\Nancy_Demo\obj\Debug\Nancy_Demo.csprojAssemblyReference.cache
+D:\C#\LeetCode\LeetCode\Nancy_Demo\obj\Debug\Nancy_Demo.csproj.CoreCompileInputs.cache
+D:\C#\LeetCode\LeetCode\Nancy_Demo\bin\Debug\Nancy_Demo.exe.config
+D:\C#\LeetCode\LeetCode\Nancy_Demo\bin\Debug\Nancy_Demo.exe
+D:\C#\LeetCode\LeetCode\Nancy_Demo\bin\Debug\Nancy_Demo.pdb
+D:\C#\LeetCode\LeetCode\Nancy_Demo\bin\Debug\Nancy.dll
+D:\C#\LeetCode\LeetCode\Nancy_Demo\bin\Debug\Nancy.Hosting.Self.dll
+D:\C#\LeetCode\LeetCode\Nancy_Demo\bin\Debug\Nancy.xml
+D:\C#\LeetCode\LeetCode\Nancy_Demo\bin\Debug\Nancy.Hosting.Self.xml
+D:\C#\LeetCode\LeetCode\Nancy_Demo\obj\Debug\Nancy_Demo.csproj.CopyComplete
+D:\C#\LeetCode\LeetCode\Nancy_Demo\obj\Debug\Nancy_Demo.exe
+D:\C#\LeetCode\LeetCode\Nancy_Demo\obj\Debug\Nancy_Demo.pdb

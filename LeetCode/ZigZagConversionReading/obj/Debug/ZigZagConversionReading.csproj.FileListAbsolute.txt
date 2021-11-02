@@ -1,0 +1,7 @@
+D:\C#\LeetCode\LeetCode\ZigZagConversionReading\bin\Debug\ZigZagConversionReading.exe.config
+D:\C#\LeetCode\LeetCode\ZigZagConversionReading\bin\Debug\ZigZagConversionReading.exe
+D:\C#\LeetCode\LeetCode\ZigZagConversionReading\bin\Debug\ZigZagConversionReading.pdb
+D:\C#\LeetCode\LeetCode\ZigZagConversionReading\obj\Debug\ZigZagConversionReading.csprojAssemblyReference.cache
+D:\C#\LeetCode\LeetCode\ZigZagConversionReading\obj\Debug\ZigZagConversionReading.csproj.CoreCompileInputs.cache
+D:\C#\LeetCode\LeetCode\ZigZagConversionReading\obj\Debug\ZigZagConversionReading.exe
+D:\C#\LeetCode\LeetCode\ZigZagConversionReading\obj\Debug\ZigZagConversionReading.pdb

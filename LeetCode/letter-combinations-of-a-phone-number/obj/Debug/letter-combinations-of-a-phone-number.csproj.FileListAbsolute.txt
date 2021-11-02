@@ -1,0 +1,7 @@
+D:\C#\LeetCode\LeetCode\letter-combinations-of-a-phone-number\bin\Debug\letter-combinations-of-a-phone-number.exe.config
+D:\C#\LeetCode\LeetCode\letter-combinations-of-a-phone-number\bin\Debug\letter-combinations-of-a-phone-number.exe
+D:\C#\LeetCode\LeetCode\letter-combinations-of-a-phone-number\bin\Debug\letter-combinations-of-a-phone-number.pdb
+D:\C#\LeetCode\LeetCode\letter-combinations-of-a-phone-number\obj\Debug\letter-combinations-of-a-phone-number.csprojAssemblyReference.cache
+D:\C#\LeetCode\LeetCode\letter-combinations-of-a-phone-number\obj\Debug\letter-combinations-of-a-phone-number.csproj.CoreCompileInputs.cache
+D:\C#\LeetCode\LeetCode\letter-combinations-of-a-phone-number\obj\Debug\letter-combinations-of-a-phone-number.exe
+D:\C#\LeetCode\LeetCode\letter-combinations-of-a-phone-number\obj\Debug\letter-combinations-of-a-phone-number.pdb

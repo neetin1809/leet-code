@@ -1,0 +1,7 @@
+D:\C#\LeetCode\LeetCode\FrameWorkVersion\bin\Debug\FrameWorkVersion.exe.config
+D:\C#\LeetCode\LeetCode\FrameWorkVersion\bin\Debug\FrameWorkVersion.exe
+D:\C#\LeetCode\LeetCode\FrameWorkVersion\bin\Debug\FrameWorkVersion.pdb
+D:\C#\LeetCode\LeetCode\FrameWorkVersion\obj\Debug\FrameWorkVersion.csprojAssemblyReference.cache
+D:\C#\LeetCode\LeetCode\FrameWorkVersion\obj\Debug\FrameWorkVersion.csproj.CoreCompileInputs.cache
+D:\C#\LeetCode\LeetCode\FrameWorkVersion\obj\Debug\FrameWorkVersion.exe
+D:\C#\LeetCode\LeetCode\FrameWorkVersion\obj\Debug\FrameWorkVersion.pdb

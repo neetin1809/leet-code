@@ -1,0 +1,7 @@
+D:\C#\LeetCode\LeetCode\String_Compress\bin\Debug\String_Compress.exe.config
+D:\C#\LeetCode\LeetCode\String_Compress\bin\Debug\String_Compress.exe
+D:\C#\LeetCode\LeetCode\String_Compress\bin\Debug\String_Compress.pdb
+D:\C#\LeetCode\LeetCode\String_Compress\obj\Debug\String_Compress.csprojAssemblyReference.cache
+D:\C#\LeetCode\LeetCode\String_Compress\obj\Debug\String_Compress.csproj.CoreCompileInputs.cache
+D:\C#\LeetCode\LeetCode\String_Compress\obj\Debug\String_Compress.exe
+D:\C#\LeetCode\LeetCode\String_Compress\obj\Debug\String_Compress.pdb

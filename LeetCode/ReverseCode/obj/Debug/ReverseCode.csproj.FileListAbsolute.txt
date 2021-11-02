@@ -1,0 +1,7 @@
+D:\C#\LeetCode\LeetCode\ReverseCode\bin\Debug\ReverseCode.exe.config
+D:\C#\LeetCode\LeetCode\ReverseCode\bin\Debug\ReverseCode.exe
+D:\C#\LeetCode\LeetCode\ReverseCode\bin\Debug\ReverseCode.pdb
+D:\C#\LeetCode\LeetCode\ReverseCode\obj\Debug\ReverseCode.csprojAssemblyReference.cache
+D:\C#\LeetCode\LeetCode\ReverseCode\obj\Debug\ReverseCode.csproj.CoreCompileInputs.cache
+D:\C#\LeetCode\LeetCode\ReverseCode\obj\Debug\ReverseCode.exe
+D:\C#\LeetCode\LeetCode\ReverseCode\obj\Debug\ReverseCode.pdb
