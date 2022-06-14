@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BalancedParenthesis.cs" />
+    <Compile Include="BalancedParethesis.cs" />
     <Compile Include="FirstMissingPositive.cs" />
     <Compile Include="PathSum.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

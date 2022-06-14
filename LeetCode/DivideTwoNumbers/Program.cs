@@ -59,7 +59,48 @@ namespace DivideTwoNumbers
             }
             Console.WriteLine(sb.ToString());
             Console.WriteLine((byte)(0<<5));
+            Console.WriteLine(RemoveElement(new int[] { 1, 2, 2, 3 }, 2));
             Console.ReadKey();
         }
+
+        //https://leetcode.com/problems/remove-element/
+        public static int RemoveElement(int[] nums, int val)
+        {
+            
+            short  count = 0;
+            
+            for (int i = 0; i < nums.Length; i++)
+            {
+                //If Equal Don't swap
+                if (nums[i] == val)
+                {
+                    continue;
+                }
+                else
+                {
+                    //Using C# 10 Features
+                    (nums[i], nums[count]) = (nums[count], nums[i]);
+                    count++;
+                }
+            }
+            /*for (int i = 0; i < nums.Length; i++)
+            {
+                if (nums[i] == val)
+                {
+                    nums[i] = '_';
+                    count++;
+                }
+            }
+            
+            nums = nums.OrderBy(x => x).Skip(count).ToArray();
+                //nums(x => x != -1);*/
+            return nums.Length - count;
+        }
+    }
+
+    //https://leetcode.com/problems/sqrtx/
+    public static int MySqrt(int x)
+    {
+      ?
     }
 }

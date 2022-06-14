@@ -8,10 +8,11 @@
     <OutputType>Exe</OutputType>
     <RootNamespace>FourSum</RootNamespace>
     <AssemblyName>FourSum</AssemblyName>
-    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -51,6 +52,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SelfDividingNumbers.cs" />
     <Compile Include="StringCamparsion.cs" />
+    <Compile Include="StrSolution.cs" />
     <Compile Include="UglyNumbers.cs" />
   </ItemGroup>
   <ItemGroup>
