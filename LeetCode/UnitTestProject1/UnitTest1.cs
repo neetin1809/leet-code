@@ -95,5 +95,35 @@ namespace UnitTestProject1
             var expected = new int[] { 1, 0, 0, 0 };
             CollectionAssert.AreEqual(result, expected);
         }
+
+        /*  [TestMethod]
+          public void TestRepeatedElementsInArray()
+          {
+              int [] numbers = { 1 };
+              int[] output = { };
+              ArrayReverse arrayReverse = new ArrayReverse();
+              var result = arrayReverse.RepeatNumbersInArray(numbers);
+              CollectionAssert.AreEqual(output, result);
+          }*/
+
+        [TestMethod]
+        public void TestReverseString(){
+		  string input = "the sky is blue";
+		  string expectedResult = "blue is sky the";
+          var actualResult = BalancedParenthesis.stringExtensionsLeetCode.ReverseWords(input);
+            Assert.AreEqual(expectedResult, actualResult);
+
+        }
+
+        [TestMethod]
+        public void Test_Search_Insert_InArray()
+        {
+            var input =new int[] { 1, 2, 5, 7 };
+            var target = 5 ;
+            var arravReverse = new ArrayReverse();
+            var result = 2;
+            var actualResult = arravReverse.Search(input, target);
+            Assert.AreEqual(actualResult, result);
+        }
     }
 }
